@@ -11,19 +11,45 @@ Backend developer focused on building reliable APIs, scalable systems, and clean
 🧰 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,js,postgres,mongodb,redis,firebase,aws,docker,kubernetes,linux,git,react,html,css,tailwind,jest,postman,github,c,cpp,java,python,javascript" /> </p>
 
-📈 GitHub Statistics
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akasahilsingh&theme=tokyonight" width="100%" /> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akasahilsingh&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akasahilsingh&theme=tokyonight&utcOffset=5.5" width="49%" /> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasahilsingh&theme=tokyonight&hide_border=true&border_radius=10" /> </div>
 
-💻 Commit & Contribution Graph
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<div style="height: 180px; overflow: hidden;">
+  <p>📈 GitHub Statistics</p>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akasahilsingh&theme=tokyonight"
+  width="100%"
+  style="display:block;"
+/>
+</div>
+
+</td>
+
+<td width="50%" align="center">
+
+<div style="height: 180px; overflow: hidden;">
+  <p>🔥 Contribution Streak</p>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=akasahilsingh&theme=tokyonight&hide_border=true&border_radius=10"
+  width="100%"
+  style="display:block;"
+/>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+<p>💻 Commit & Contribution Graph<p/>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasahilsingh&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Commit%20Activity" width="100%" /> </div>
 
-
-
-🌐 Let's Connect
-<div align="center"> <a href="https://twitter.com/akasahilsingh"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://linkedin.com/in/akasahilsingh"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/akasahilsingh"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://leetcode.com/sahil_singh22"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </div>
-<div align="center">
 💙 Thanks for visiting my profile!
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" /> <br/>
 
