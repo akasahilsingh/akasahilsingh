@@ -50,9 +50,7 @@ Backend developer focused on building reliable APIs, scalable systems, and clean
 <p>💻 Commit & Contribution Graph<p/>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasahilsingh&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Commit%20Activity" width="100%" /> </div>
 
-💙 Thanks for visiting my profile!
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" /> <br/>
 
-⭐ If you find something interesting, consider giving it a star!
 
 </div> <!-- ═══════════════════════════════════════════════════════════════════ END OF README ═══════════════════════════════════════════════════════════════════ -->
