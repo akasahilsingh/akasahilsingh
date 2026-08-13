@@ -9,26 +9,12 @@ Backend developer focused on building reliable APIs, scalable systems, and clean
 "Build things. Break things. Learn. Improve. Repeat."
 
 🧰 Tech Stack
-Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,js" /> </p>
-Databases & Storage
-<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" /> </p>
-Cloud, DevOps & Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" /> </p>
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> </p>
-Testing & Development Tools
-<p> <img src="https://skillicons.dev/icons?i=jest,postman,github" /> </p>
-Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
-
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,js,postgres,mongodb,redis,firebase,aws,docker,kubernetes,linux,git,react,html,css,tailwind,jest,postman,github,c,cpp,java,python,javascript" /> </p>
 
 📈 GitHub Statistics
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akasahilsingh&theme=tokyonight" width="100%" /> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akasahilsingh&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akasahilsingh&theme=tokyonight&utcOffset=5.5" width="49%" /> </div>
 🔥 Contribution Streak
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasahilsingh&theme=tokyonight&hide_border=true&border_radius=10" /> </div>
-📅 Contribution Activity
-<div align="center"> <a href="https://github.com/akasahilsingh"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasahilsingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Sahil%20Singh%27s%20Contribution%20Activity" width="100%" /> </a> </div>
 
 💻 Commit & Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasahilsingh&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Commit%20Activity" width="100%" /> </div>
