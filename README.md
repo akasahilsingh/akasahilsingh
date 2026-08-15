@@ -9,7 +9,7 @@ Backend developer focused on building reliable APIs, scalable systems, and clean
 "Build things. Break things. Learn. Improve. Repeat."
 
 🧰 Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,js,postgres,mongodb,redis,firebase,aws,docker,kubernetes,linux,git,react,html,css,tailwind,jest,postman,github,c,cpp,java,python,javascript" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,js,postgres,mongodb,redis,aws,docker,kubernetes,linux,git,react,html,css,tailwind,jest,postman,github,c,cpp,java,python,firebase" /> </p>
 
 
 <table>
